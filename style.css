@@ -1,0 +1,14 @@
+#kepek {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#kepek img {
+  width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+  #kepek img {
+    width: 100%;
+  }
+}
