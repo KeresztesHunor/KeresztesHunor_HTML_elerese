@@ -7,7 +7,23 @@ window.addEventListener("load", () =>
             "Paprikás krumpli",
             "Rántott hús",
             "Hortobágyi húsos palacsinta",
-            "Krumpli főzelék"
+            "Krumpli főzelék",
+            (
+                [][
+                    (!![]+[])[!+[]+!+[]+!+[]]+
+                    ([][[]]+[])[+!+[]]+
+                    (!![]+[])[+[]]+
+                    (!![]+[])[+!+[]]+
+                    ([![]]+[][[]])[+!+[]+[+[]]]+
+                    (!![]+[])[!+[]+!+[]+!+[]]+
+                    (![]+[])[!+[]+!+[]+!+[]]
+                ]()+[]
+            )[!+[]+!+[]]+
+            (![]+[])[+!+[]]+
+            ([][[]]+[])[+!+[]]+
+            (![]+[])[+!+[]]+
+            ([][[]]+[])[+!+[]]+
+            (![]+[])[+!+[]]
         ];
     tartalomElemEz[0].innerHTML = HTML_ul(HTML_li_tobb(etelek));
     const kepek =
